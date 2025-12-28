@@ -40,4 +40,4 @@ Components are kept presentational where possible, with business logic abstracte
 
 ## Demo
   ![Pdf Viewer](./images/ss1.png)
-  ![Pdf Upload](./images/ss2.PNG)
+  ![Pdf Upload](./images/ss2.png)
