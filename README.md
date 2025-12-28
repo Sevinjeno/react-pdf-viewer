@@ -1,8 +1,6 @@
 # PDF Upload & Viewer (React)
 
-## This project implements the frontend requirements provided by Delta Capita, focusing on scalability, accessibility, and maintainable architecture.
-
-    Components are kept presentational where possible, with business logic abstracted into hooks and services to improve testability.
+Components are kept presentational where possible, with business logic abstracted into hooks and services to improve testability.
 
 
 ## Features
@@ -25,7 +23,7 @@
     ├─ types/
     │   └─ pdf.ts
     └─ App.tsx
-    
+
 ### How to run Locally 
 
     npm install
@@ -41,5 +39,5 @@
 
 
 ## Demo
-    ![alt text](image.png)
-    ![alt text](image-1.png)
+    ![Pdf Viewer](./Screenshots/ss1.png)
+    ![Pdf Upload](./Screenshots/ss2.png)
